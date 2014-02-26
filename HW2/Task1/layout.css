@@ -1,0 +1,15 @@
+#header {background-color:#09F;}
+#header h1{margin-bottom:0;}
+#slidebar{
+	background-color:#9CF;
+	height:300px;
+	width:30%;
+	float:left;
+}
+#content{
+	background-color:#EEEEEE;
+	height:300px;
+	width:70%;
+	float:left;
+}
+#footer{background-color:#0CF;clear:both;}
