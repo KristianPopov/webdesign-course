@@ -1,0 +1,45 @@
+#header {background-color:#0C0;}
+#header h1{margin-bottom:0;}
+#header ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+#header ul li{
+	float:left;
+}
+#header ul a{
+	display:block;
+	width:80px;
+	background-color:#BFB;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	color:#000;
+	transition: 0.5s;
+	
+}
+#header ul a:hover{
+	background-color:#390;
+	color:#FFF;
+}
+#sidebar1{
+	background-color:#0F9;
+	height:300px;
+	width:20%;
+	float:left;
+}
+#content{
+	background-color:#EEEEEE;
+	height:300px;
+	width:65%;
+	float:left;
+}
+#sidebar2{
+	background-color:#0F9;
+	height:300px;
+	width:15%;
+	float:left;
+}
+#footer{background-color:#060;clear:both;}
